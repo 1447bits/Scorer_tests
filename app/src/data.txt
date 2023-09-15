@@ -1,0 +1,180 @@
+
+
+
+The total number of points of local minimum and local maximum of the function $f(x)=\int_0^{x^2} \frac{t^2-5 t+4}{2+e^t} d t$ =?
+
+converted : The total number of points of local minimum and local maximum of the function $$f(x)=\\int_0^{x^2} \\frac{t^2-5 t+4}{2+e^t} d t$$ =?}
+
+In the expansion of $ \left(x+\sqrt{x^2-1} \right)^6 + \left(x-\sqrt{x^2-1}\right)^6$. Find the number of terms
+
+converted : In the expansion of $$ \\left(x+\\sqrt{x^2-1} \\right)^6 + \\left(x-\\sqrt{x^2-1}\\right)^6$$. Find the number of terms}
+
+
+The total number of points of local minimum and local maximum of the function $f(x)=\int_0^{x^2} \frac{t^2-5 t+4}{2+e^t} d t$ =?
+
+converted : The total number of points of local minimum and local maximum of the function $$f(x)=\\int_0^{x^2} \\frac{t^2-5 t+4}{2+e^t} d t$$ =?}
+
+
+The total number of points of local minimum and local maximum of the function $f(x)=\int_0^{x^2} \frac{t^2-5 t+4}{2+e^t} d t$ =?
+
+converted : The total number of points of local minimum and local maximum of the function $$f(x)=\\int_0^{x^2} \\frac{t^2-5 t+4}{2+e^t} d t$$ =?}
+
+
+The total number of points of local minimum and local maximum of the function $f(x)=\int_0^{x^2} \frac{t^2-5 t+4}{2+e^t} d t$ =?
+
+converted : The total number of points of local minimum and local maximum of the function $$f(x)=\\int_0^{x^2} \\frac{t^2-5 t+4}{2+e^t} d t$$ =?}
+
+
+In the expansion of $ \left(x+\sqrt{x^2-1} \right)^6 + \left(x-\sqrt{x^2-1}\right)^6$. Find the number of terms
+
+converted : In the expansion of $$ \\left(x+\\sqrt{x^2-1} \\right)^6 + \\left(x-\\sqrt{x^2-1}\\right)^6$$. Find the number of terms}
+
+
+If $(1+x)^n=C_0+C_1 x+C_2 x^2+\ldots C_n x^n$. Prove that $C_0C_1+C_1C_2+.....C_{n-1}C_n=\frac{2n!}{(n-1)!(n+1)!}$
+
+converted : If $$(1+x)^n=C_0+C_1 x+C_2 x^2+\\ldots C_n x^n$$. Prove that $$C_0C_1+C_1C_2+.....C_{n-1}C_n=\\frac{2n!}{(n-1)!(n+1)!}$$}
+
+
+If $\int_{-\frac1{\sqrt{3}}}^{\frac1{\sqrt{3}}} \frac{x^4}{1-x^4} \cos ^{-1} \frac{2 x}{1+x^2} d x=-\frac{\pi}{\sqrt{3}}-\frac{\pi}{4} \log \left(\frac{\sqrt{3}-1}{\sqrt{3}+1}\right)+k$, then $k=?$
+
+converted : If $$\\int_{-\\frac1{\\sqrt{3}}}^{\\frac1{\\sqrt{3}}} \\frac{x^4}{1-x^4} \\cos ^{-1} \\frac{2 x}{1+x^2} d x=-\\frac{\\pi}{\\sqrt{3}}-\\frac{\\pi}{4} \\log \\left(\\frac{\\sqrt{3}-1}{\\sqrt{3}+1}\\right)+k$$, then $$k=?$$}
+
+
+The total number of points of local minimum and local maximum of the function $f(x)=\int_0^{x^2} \frac{t^2-5 t+4}{2+e^t} d t$ =?
+
+converted : The total number of points of local minimum and local maximum of the function $$f(x)=\\int_0^{x^2} \\frac{t^2-5 t+4}{2+e^t} d t$$ =?}
+
+
+In the expansion of $ \left(x+\sqrt{x^2-1} \right)^6 + \left(x-\sqrt{x^2-1}\right)^6$. Find the number of terms
+
+converted : In the expansion of $$ \\left(x+\\sqrt{x^2-1} \\right)^6 + \\left(x-\\sqrt{x^2-1}\\right)^6$$. Find the number of terms}
+
+
+If $(1+x)^n=C_0+C_1 x+C_2 x^2+\ldots C_n x^n$. Prove that $C_0C_1+C_1C_2+.....C_{n-1}C_n=\frac{2n!}{(n-1)!(n+1)!}$
+
+converted : If $$(1+x)^n=C_0+C_1 x+C_2 x^2+\\ldots C_n x^n$$. Prove that $$C_0C_1+C_1C_2+.....C_{n-1}C_n=\\frac{2n!}{(n-1)!(n+1)!}$$}
+
+
+Solve : $ \int_0^{\frac{\pi}{2}} \sin ^3 \theta \cos \theta d \theta $
+
+converted : Solve : $$ \\int_0^{\\frac{\\pi}{2}} \\sin ^3 \\theta \\cos \\theta d \\theta $$}
+
+
+If $\int_{-\frac1{\sqrt{3}}}^{\frac1{\sqrt{3}}} \frac{x^4}{1-x^4} \cos ^{-1} \frac{2 x}{1+x^2} d x=-\frac{\pi}{\sqrt{3}}-\frac{\pi}{4} \log \left(\frac{\sqrt{3}-1}{\sqrt{3}+1}\right)+k$, then $k=?$
+
+converted : If $$\\int_{-\\frac1{\\sqrt{3}}}^{\\frac1{\\sqrt{3}}} \\frac{x^4}{1-x^4} \\cos ^{-1} \\frac{2 x}{1+x^2} d x=-\\frac{\\pi}{\\sqrt{3}}-\\frac{\\pi}{4} \\log \\left(\\frac{\\sqrt{3}-1}{\\sqrt{3}+1}\\right)+k$$, then $$k=?$$}
+
+
+If $(1+x)^n=C_0+C_1 x+C_2 x^2+\ldots C_n x^n$. Prove that $C_0C_1+C_1C_2+.....C_{n-1}C_n=\frac{2n!}{(n-1)!(n+1)!}$
+
+converted : If $$(1+x)^n=C_0+C_1 x+C_2 x^2+\\ldots C_n x^n$$. Prove that $$C_0C_1+C_1C_2+.....C_{n-1}C_n=\\frac{2n!}{(n-1)!(n+1)!}$$}
+
+
+The total number of points of local minimum and local maximum of the function $f(x)=\int_0^{x^2} \frac{t^2-5 t+4}{2+e^t} d t$ =?
+
+converted : The total number of points of local minimum and local maximum of the function $$f(x)=\\int_0^{x^2} \\frac{t^2-5 t+4}{2+e^t} d t$$ =?}
+
+
+In the expansion of $ \left(x+\sqrt{x^2-1} \right)^6 + \left(x-\sqrt{x^2-1}\right)^6$. Find the number of terms
+
+converted : In the expansion of $$ \\left(x+\\sqrt{x^2-1} \\right)^6 + \\left(x-\\sqrt{x^2-1}\\right)^6$$. Find the number of terms}
+
+
+In the expansion of $ \left(\frac{4x}{5}-\frac{5}{2x}\right)^9\\$ Find the 7th term.
+
+converted : In the expansion of $$ \\left(\\frac{4x}{5}-\\frac{5}{2x}\\right)^9\\\\$$ Find the 7th term.}
+
+
+The total number of points of local minimum and local maximum of the function $f(x)=\int_0^{x^2} \frac{t^2-5 t+4}{2+e^t} d t$ =?
+
+converted : The total number of points of local minimum and local maximum of the function $$f(x)=\\int_0^{x^2} \\frac{t^2-5 t+4}{2+e^t} d t$$ =?}
+
+
+In the expansion of $ \left(x+\sqrt{x^2-1} \right)^6 + \left(x-\sqrt{x^2-1}\right)^6$. Find the number of terms
+
+converted : In the expansion of $$ \\left(x+\\sqrt{x^2-1} \\right)^6 + \\left(x-\\sqrt{x^2-1}\\right)^6$$. Find the number of terms}
+
+
+If $(1+x)^n=C_0+C_1 x+C_2 x^2+\ldots C_n x^n$. Prove that $C_0C_1+C_1C_2+.....C_{n-1}C_n=\frac{2n!}{(n-1)!(n+1)!}$
+
+converted : If $$(1+x)^n=C_0+C_1 x+C_2 x^2+\\ldots C_n x^n$$. Prove that $$C_0C_1+C_1C_2+.....C_{n-1}C_n=\\frac{2n!}{(n-1)!(n+1)!}$$}
+
+
+If $\int_{-\frac1{\sqrt{3}}}^{\frac1{\sqrt{3}}} \frac{x^4}{1-x^4} \cos ^{-1} \frac{2 x}{1+x^2} d x=-\frac{\pi}{\sqrt{3}}-\frac{\pi}{4} \log \left(\frac{\sqrt{3}-1}{\sqrt{3}+1}\right)+k$, then $k=?$
+
+converted : If $$\\int_{-\\frac1{\\sqrt{3}}}^{\\frac1{\\sqrt{3}}} \\frac{x^4}{1-x^4} \\cos ^{-1} \\frac{2 x}{1+x^2} d x=-\\frac{\\pi}{\\sqrt{3}}-\\frac{\\pi}{4} \\log \\left(\\frac{\\sqrt{3}-1}{\\sqrt{3}+1}\\right)+k$$, then $$k=?$$}
+
+
+Solve : $ \int_0^{\frac{\pi}{2}} \sin ^3 \theta \cos \theta d \theta $
+
+converted : Solve : $$ \\int_0^{\\frac{\\pi}{2}} \\sin ^3 \\theta \\cos \\theta d \\theta $$}
+
+
+In the expansion of $ \left(ax^2+\frac{1}{bx}\right)^{11}$, find the coefficient of $x^7$.
+
+converted : In the expansion of $$ \\left(ax^2+\\frac{1}{bx}\\right)^{11}$$, find the coefficient of $$x^7$$.}
+
+
+In the expansion of $ \left(\frac{4x}{5}-\frac{5}{2x}\right)^9\\$ Find the 7th term.
+
+converted : In the expansion of $$ \\left(\\frac{4x}{5}-\\frac{5}{2x}\\right)^9\\\\$$ Find the 7th term.}
+
+
+In the expansion of $ \left(x+\sqrt{x^2-1} \right)^6 + \left(x-\sqrt{x^2-1}\right)^6$. Find the number of terms
+
+converted : In the expansion of $$ \\left(x+\\sqrt{x^2-1} \\right)^6 + \\left(x-\\sqrt{x^2-1}\\right)^6$$. Find the number of terms}
+
+
+Solve : $ \int_0^{\frac{\pi}{2}} \sin ^3 \theta \cos \theta d \theta $
+
+converted : Solve : $$ \\int_0^{\\frac{\\pi}{2}} \\sin ^3 \\theta \\cos \\theta d \\theta $$}
+
+
+If $\int_{-\frac1{\sqrt{3}}}^{\frac1{\sqrt{3}}} \frac{x^4}{1-x^4} \cos ^{-1} \frac{2 x}{1+x^2} d x=-\frac{\pi}{\sqrt{3}}-\frac{\pi}{4} \log \left(\frac{\sqrt{3}-1}{\sqrt{3}+1}\right)+k$, then $k=?$
+
+converted : If $$\\int_{-\\frac1{\\sqrt{3}}}^{\\frac1{\\sqrt{3}}} \\frac{x^4}{1-x^4} \\cos ^{-1} \\frac{2 x}{1+x^2} d x=-\\frac{\\pi}{\\sqrt{3}}-\\frac{\\pi}{4} \\log \\left(\\frac{\\sqrt{3}-1}{\\sqrt{3}+1}\\right)+k$$, then $$k=?$$}
+
+
+If $(1+x)^n=C_0+C_1 x+C_2 x^2+\ldots C_n x^n$. Prove that $C_0C_1+C_1C_2+.....C_{n-1}C_n=\frac{2n!}{(n-1)!(n+1)!}$
+
+converted : If $$(1+x)^n=C_0+C_1 x+C_2 x^2+\\ldots C_n x^n$$. Prove that $$C_0C_1+C_1C_2+.....C_{n-1}C_n=\\frac{2n!}{(n-1)!(n+1)!}$$}
+
+
+Solve: $\int_{-4}^3|x^2 -4| d x$
+
+converted : Solve: $$\\int_{-4}^3|x^2 -4| d x$$}
+
+
+In the expansion of $ \left(\frac{4x}{5}-\frac{5}{2x}\right)^9\\$ Find the 7th term.
+
+converted : In the expansion of $$ \\left(\\frac{4x}{5}-\\frac{5}{2x}\\right)^9\\\\$$ Find the 7th term.}
+
+
+If $(1+x)^n=C_0+C_1 x+C_2 x^2+\ldots C_n x^n$. Prove that $C_0C_1+C_1C_2+.....C_{n-1}C_n=\frac{2n!}{(n-1)!(n+1)!}$
+
+converted : If $$(1+x)^n=C_0+C_1 x+C_2 x^2+\\ldots C_n x^n$$. Prove that $$C_0C_1+C_1C_2+.....C_{n-1}C_n=\\frac{2n!}{(n-1)!(n+1)!}$$}
+
+
+In the expansion of $ \left(ax^2+\frac{1}{bx}\right)^{11}$, find the coefficient of $x^7$.
+
+converted : In the expansion of $$ \\left(ax^2+\\frac{1}{bx}\\right)^{11}$$, find the coefficient of $$x^7$$.}
+
+
+Solve : $ \int_0^{\frac{\pi}{2}} \sin ^3 \theta \cos \theta d \theta $
+
+converted : Solve : $$ \\int_0^{\\frac{\\pi}{2}} \\sin ^3 \\theta \\cos \\theta d \\theta $$}
+
+
+In the expansion of $ \left(x+\sqrt{x^2-1} \right)^6 + \left(x-\sqrt{x^2-1}\right)^6$. Find the number of terms
+
+converted : In the expansion of $$ \\left(x+\\sqrt{x^2-1} \\right)^6 + \\left(x-\\sqrt{x^2-1}\\right)^6$$. Find the number of terms
+
+
+If $\int_{-\frac1{\sqrt{3}}}^{\frac1{\sqrt{3}}} \frac{x^4}{1-x^4} \cos ^{-1} \frac{2 x}{1+x^2} d x=-\frac{\pi}{\sqrt{3}}-\frac{\pi}{4} \log \left(\frac{\sqrt{3}-1}{\sqrt{3}+1}\right)+k$, then $k=?$
+
+converted : If $$\\int_{-\\frac1{\\sqrt{3}}}^{\\frac1{\\sqrt{3}}} \\frac{x^4}{1-x^4} \\cos ^{-1} \\frac{2 x}{1+x^2} d x=-\\frac{\\pi}{\\sqrt{3}}-\\frac{\\pi}{4} \\log \\left(\\frac{\\sqrt{3}-1}{\\sqrt{3}+1}\\right)+k$$, then $$k=?$$
+
+
+In the expansion of $ \left(ax^2+\frac{1}{bx}\right)^{11}$, find the coefficient of $x^7$.
+
+converted : In the expansion of $$ \\left(ax^2+\\frac{1}{bx}\\right)^{11}$$, find the coefficient of $$x^7$$

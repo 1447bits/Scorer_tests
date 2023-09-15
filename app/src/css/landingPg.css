@@ -1,0 +1,77 @@
+:root {
+    --border-color: rgba(56, 56, 145, 0.796);
+}
+
+#LandingPg {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+#LandingPg input {
+    all: unset;
+    background: #ffffff08;
+    border: 1px solid rgba(109, 142, 226, 0.571);
+    padding: 0.2em 0.5em;
+    border-radius: 5px;
+    margin: 12px 12px;
+}
+
+#LandingPg #userName {
+    width: min(150px, 80%);
+    margin: auto;
+}
+#LandingPg #startTestOptions {
+    width: min(150px, 100%);
+}
+
+#LandingPg #questionSelectionOptions {
+    padding: 2em 0em;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+#LandingPg #questionSelection {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    padding: 1em;
+    border-radius: 12px;
+    border: 1px solid var(--border-color);
+    width: 350px;
+    text-align: left;
+    margin: auto;
+}
+
+#LandingPg .questionSelectCheckBox {
+    display: grid;
+    grid-template-columns: 80% 20%;
+}
+
+#LandingPg #questionSelection input {
+    padding: 5px;
+    border: 1px solid var(--border-color);
+    /* margin: 0; */
+}
+
+#LandingPg #questionSelection input:checked {
+    background: rgb(88, 88, 175);
+}
+
+#LandingPg #startTextBtn:hover {
+    background-color: blueviolet;
+}
+
+#LandingPg #startTextBtn {
+    position: relative;
+    transition: 0.3s;
+    color: #f3f3f2;
+    width: min(300px, 75%);
+    text-align: center;
+    margin: auto;
+    background-color: transparent;
+    border: 0.5px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1em 2em;
+    z-index: 2;
+}

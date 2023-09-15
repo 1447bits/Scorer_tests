@@ -1,0 +1,8 @@
+#App, #root {
+    background-color: var(--darkBodyBack);
+    color: var(--primaryTextColor);
+    min-height: 100dvh;
+    min-width: 100dvw;
+    text-align: center;
+    overflow: auto;
+}

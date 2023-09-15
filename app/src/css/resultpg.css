@@ -1,0 +1,19 @@
+#resultPg {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    padding: 1em;
+    color: rgb(172, 174, 177);
+}
+
+
+#resultPg #resultDetails > * { 
+    margin: 12px 2em;
+}
+#resultPg #resultDetails ul {
+    width: fit-content;
+    margin: auto;
+    padding: 2em;
+    text-align: left;
+    list-style: inside;
+} 

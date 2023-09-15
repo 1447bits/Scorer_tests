@@ -1,0 +1,47 @@
+#SubmitPopup {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100dvw;
+    height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2em;
+    background: #3f474950;
+    backdrop-filter: blur(10px);
+}
+
+#SubmitPopupBox {
+    width: min(90%, 550px);
+    /* aspect-ratio: 1; */
+    background: #7e8b8f50;
+    border-radius: 12px;
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    /* width: 90%; */
+    margin-inline: auto;
+}
+
+#SubmitPopupBox #submitOrCancleBtn {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+#SubmitPopupBox #submitOrCancleBtn>span:nth-of-type(1):hover {
+    background: rgb(171, 45, 45);
+}
+#SubmitPopupBox #submitOrCancleBtn>span:nth-of-type(2):hover {
+    background: rgb(47, 171, 45);
+}
+
+
+#SubmitPopupBox #submitOrCancleBtn>span {
+    transition: 0.3s;
+    padding: 8px 12px;
+    border-radius: 5px;
+    background-color: var(--darkBodyBack);
+}
