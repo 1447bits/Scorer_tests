@@ -1,8 +1,6 @@
-// import { useState } from 'react';
 import { useEffect, useState } from 'react';
 import './css/App.css';
 
-// import SamplePg from './pages/SamplePg';
 import LandingPg from './pages/LandingPg';
 import TestPg from './pages/TestPg';
 import ResultPage from './pages/ResultPage';
@@ -29,21 +27,10 @@ function App() {
   const [eachquetime, seteachquetime] = useState([])
 
 
-  // if (testState === 0) {
-  //   setcurrpage(<LandingPg starttestFunc={startTest} />)
-  // }
-  // else if (testState === 1) {
-  //   setcurrpage(<TestPg questions={allQuestions} submitfunc={loadResultPage} />)
-  // }
-  // else if (testState === 2) {
-  //   setcurrpage(<ResultPage />)
-  // }
 
   function startTest(questions) {
     if (document.getElementById("userName").value == "") {
       alert("enter username")
-      // console.log("userid : ", userid)
-      // console.log("questions : ", questions)
       return
     } else if (questions.length === 0) {
       alert("choose chapter")
@@ -76,17 +63,13 @@ function App() {
   }
 
   window.addEventListener("beforeunload", function (e) {
-    // Prompt the user
     e.preventDefault();
     e.returnValue = "";
 
-    // Show a confirmation dialog
     const confirmationMessage = "page will reload. All progress will be lost";
     if (window.confirm(confirmationMessage)) {
-      // The user clicked "OK", so allow the reload
       e.returnValue = undefined;
     } else {
-      // The user clicked "Cancel", so prevent the reload
       e.returnValue = "You have chosen to stay on this page.";
     }
   });

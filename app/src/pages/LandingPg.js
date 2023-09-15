@@ -23,7 +23,6 @@ export default function LandingPg({ starttestFunc }) {
             setselectedQuestions([...temp])
 
         }
-        console.log(selectedQuestions)
     }
 
     return (

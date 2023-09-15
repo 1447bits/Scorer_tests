@@ -1,12 +1,6 @@
 import React from 'react'
 import "../css/resultpg.css"
 
-// {/* {console.log(props.ans)}
-// {console.log(props.eachtime)}
-// <br/>
-// {props.time}
-// <br/>
-// {`name : ${props.name}`} */}
 export default function ResultPage(props) {
 
     let totaltime = props.time.split(".")

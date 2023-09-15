@@ -42,8 +42,6 @@ export default function TestPg(props) {
                             temp.push(convertToMathJaxFormat(question));
                         });
                 }
-                // console.log(topics)
-                // console.log("fetched")
                 setfetchedquestions([...temp])
                 setfetched(true)
             }
@@ -62,17 +60,12 @@ export default function TestPg(props) {
     }
 
 
-    // function hidePopup() {
-    //     setsubmitPopupvisibility(false)
-    // }
 
     function markOption(optionNum) {
         setmarkedOption(optionNum)
     }
 
     function RenderQuestion(curr, topics) {
-        console.log(curr.curr)
-        console.log(fetchedquestions[curr.curr])
         return <MathJax>
             {fetchedquestions[(curr.curr) - 1]}
         </MathJax>
@@ -91,9 +84,6 @@ export default function TestPg(props) {
         setmarkedAnswers([...temp])
         setmarkedOption(0)
         setcurrque(currque + 1)
-        console.log(markedAnswers)
-        console.log(markedOption)
-        // showPrevMark()
     }
 
     function goToPrevPage() {
@@ -102,13 +92,11 @@ export default function TestPg(props) {
         } else {
             alert("first question")
         }
-        // showPrevMark()
     }
 
 
     function submittest() {
         setsubmitPopupvisibility(true)
-        console.log(markedAnswers)
 
         settesttimetaken(document.getElementById("testTimer").innerHTML)
     }
