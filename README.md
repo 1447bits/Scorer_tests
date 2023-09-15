@@ -6,4 +6,8 @@ to run the app
 `npm install` <br />
 `npm start` <br />
 
+- issues
+
+MathJax fails to display components using array indesex
+
 An user interface for an online mathematics test using React.js framework
